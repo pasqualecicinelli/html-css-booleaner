@@ -6,21 +6,21 @@ body{
     background-color: rgb(78, 160, 255);
     height: 180px;  
 }
-img{
+#logo{
     width: 250px;
     height: 180px;
     line-height: 180px; 
     margin-left: 5px;
 }
-#margin{
+.margin-left{
     margin-left: 5px;
 }
-.text-color{
+.writer{
     font-size: 20px;
     color:#808080;
     font-weight: bold;
 }
-#color{
+#text-color{
     color: #24AAE5;
 }
 
