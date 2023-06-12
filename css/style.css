@@ -32,7 +32,7 @@ body{
 main{
     max-width: 1100px;
 }
-#second-content{
+.margin-bottom{
     margin-bottom: 20px;
 }
 .background{
@@ -43,6 +43,27 @@ th{
     color: white;
 }
 .light-row{
-    background-color: #B1E5F2;
-    
+    background-color: #B1E5F2;   
+}
+.font{
+    color: #7F7F7F;
+    font-weight: bold;
+}
+.first-img{
+    color: white;
+    background-image: url(../img/monitor.jpg); 
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.second-img{
+    color: white;
+    background-image: url(../img/graph.jpg); 
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
 }
