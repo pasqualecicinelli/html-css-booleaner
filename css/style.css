@@ -38,3 +38,11 @@ main{
 .background{
     background-color: yellow;
 }
+th{
+    background-color: #20A9E5;
+    color: white;
+}
+.light-row{
+    background-color: #B1E5F2;
+    
+}
