@@ -6,6 +6,9 @@ body{
     background-color: rgb(78, 160, 255);
     height: 180px;  
 }
+h1{
+    margin-bottom: 0px;
+}
 #logo{
     width: 250px;
     height: 180px;
