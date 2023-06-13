@@ -22,7 +22,6 @@ h1{
 .writer{
     font-size: 20px;
     color:#808080;
-    font-weight: bold;
 }
 #text-color{
     color: #24AAE5;
@@ -53,18 +52,20 @@ th{
     background-color: #20A9E5;
     color: white;
     padding-right: 100px;
-    width: 150px;
+    text-align: left;  
 }
-#size-row{
-    text-align: left;
-    width: 600px;
+.column{
+    width: 25%;
+}
+#last-column{  
+    width: 50%;
 }
 .light-row{
     background-color: #B1E5F2;   
 }
 .font{
+    font-size: 17px;
     color: #7F7F7F;
-    font-weight: bold;
     margin-bottom: 10px;
 }
 .first-img{
@@ -79,5 +80,4 @@ th{
     background-repeat: no-repeat;
     padding: 10px;
     font-size: 20px;
-    font-weight: bold;
 }
